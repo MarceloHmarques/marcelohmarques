@@ -52,7 +52,7 @@ Graduando em Tecnologia da Informação pela UFERSA com foco em desenvolvimento 
 
 <div>
   <a href="https://www.instagram.com/marceloo_marques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:marcelohenrique.lima@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:marcelocobra54321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0e00d5&reversal=false&section=footer&descAlign=50"/>
